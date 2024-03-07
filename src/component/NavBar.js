@@ -24,6 +24,7 @@ const CustomNavBar=() =>{
         setActiveLink(value);
     }
 
+    console.log('nadia eshte yll bote')
   return (
     <Navbar expand="lg" className={scrolled ? "scrolled": ""}>
       <Container>
